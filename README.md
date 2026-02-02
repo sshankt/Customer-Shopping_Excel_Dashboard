@@ -7,7 +7,8 @@ The goal of this project is to design an **Excel-based Retail Sales Dashboard** 
 This project demonstrates how Excel can be used as a **powerful business intelligence tool** using Pivot Tables, KPIs, charts, slicers, and hyperlinks.
 
 ---
-!["Retail Sales Dashboard"]("https://github.com/sshankt/Customer-Shopping_Excel_Dashboard/blob/main/1769965934874.jpg")
+![Retail Sales Dashboard](https://raw.githubusercontent.com/sshankt/Customer-Shopping_Excel_Dashboard/main/1769965934874.jpg)
+
 ## 🔥 Key Performance Indicators (KPIs)
 
 The dashboard starts with high-level KPIs to give a quick snapshot of business health:
